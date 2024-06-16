@@ -7,8 +7,6 @@ CREATE TABLE GroupInfo (
     updation_date DATE
 );
 
-select * from GroupInfo
-truncate table GroupInfo
 
 -- Create Locations table
 CREATE TABLE Locations (
